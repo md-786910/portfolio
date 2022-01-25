@@ -6,9 +6,17 @@
   "scripts": {
     "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-786910/portfolio.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-786910/portfolio/issues"
+  },
+  "homepage": "https://github.com/md-786910/portfolio#readme",
   "dependencies": {
     "body-parser": "^1.19.1",
     "cors": "^2.8.5",
